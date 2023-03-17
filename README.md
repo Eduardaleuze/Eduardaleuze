@@ -5,7 +5,7 @@
 🧶 Gosto muito de ler livros de investigação criminal, suspense e romance, sair com meus amigos e família, passear ao ar livre e escutar música. <br>
 🎓 Sou formada em Design de Interiores pela Fundação Liberato Salzano e atualmente estou no programa Starter Full Stack Web Developer na GrowDev.<br>
 💻 Já trabalhei em comércios, vendas, projeto de móveis sob medida, designer gráfica e web designer, atualmente trabalho em uma Srtatup na parte comercial e Designer de mídias sociais.<br>
-🖱  Minha linguagem favorita é o CSS
+🖱  Minha linguagem favorita é o CSS<br>
 👩‍🏫 Estou aprendendo no momento HTML.
 </p>
 
