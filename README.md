@@ -11,9 +11,10 @@
 
 <div>
 <p>
-<a href="https://www.instagram.com/eduardaleuze" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-"></a>
+  <a href="https://www.instagram.com/eduardaleuze/" alt="Instagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  
 <a href="https://wa.me/5551998100313" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
